@@ -1,12 +1,12 @@
 # Aternova Académico
 
-Este es un sistema académico básico desarrollado con Django y Django REST Framework. Permite la gestión de usuarios (administradores, profesores y estudiantes), materias, notas, reportes y notificaciones.
+Sistema académico con Django y Django REST Framework. Permite la gestión de usuarios (administradores, profesores y estudiantes), materias, notas, reportes y notificaciones.
 
 ---
 
 ## 🛠 Tecnologías utilizadas
 
-- Python 3.x
+- Python 3.13.5
 - Django 4.x
 - Django REST Framework
 - Simple JWT (Autenticación)
@@ -20,5 +20,7 @@ Este es un sistema académico básico desarrollado con Django y Django REST Fram
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/alternova-test/alternova-academico.git
+cd alternova-academico
+
+
