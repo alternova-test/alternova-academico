@@ -1,4 +1,4 @@
-# 📘 Aternova Académico
+# Aternova Académico
 
 Este es un sistema académico básico desarrollado con Django y Django REST Framework. Permite la gestión de usuarios (administradores, profesores y estudiantes), materias, notas, reportes y notificaciones.
 
@@ -11,7 +11,7 @@ Este es un sistema académico básico desarrollado con Django y Django REST Fram
 - Django REST Framework
 - Simple JWT (Autenticación)
 - SQLite (por defecto)
-- Postman (para pruebas de API)
+- Postman (prueba de API)
 
 ---
 
